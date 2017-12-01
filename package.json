@@ -1,0 +1,24 @@
+{
+  "name": "cloudcms-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viktorbergehall/cloudcms-example.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/viktorbergehall/cloudcms-example/issues"
+  },
+  "homepage": "https://github.com/viktorbergehall/cloudcms-example#readme",
+  "dependencies": {
+    "cloudcms-server": "^0.8.453",
+    "jwks-rsa": "^1.2.1"
+  }
+}
